@@ -1,0 +1,37 @@
+ body {
+    color:black;
+    background:radial-gradient(black, transparent);
+    margin: 0px;
+    font-family: "DM Serif Text", serif;
+ }
+
+
+ header{
+    border-bottom: solid 2px rgb(118, 118, 118); 
+    padding:20px;
+    font-size:32px;
+    color:rgb(118, 118, 118);
+ }
+
+ section {
+    background:rgb(227, 227, 227)
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content:center;
+ }
+
+ .chamada-texto {
+   margin-right: 5%;
+ }
+
+ h1{
+   font-size:40px; 
+ }
+ p{ 
+   font-size: 20px;
+ }
+ img{
+   height: 200px;
+ }
+ 
